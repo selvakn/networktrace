@@ -1,4 +1,5 @@
 # Network Trace
+![](https://ga-beacon.appspot.com/UA-46071746-2/github/network_trace?pixel "")
 
 * Visualise your mac's application wise network usage
 * Statistics about uploads/downloads
@@ -11,5 +12,4 @@
 
 Screenshot
 ----------
-
 ![Network Trace Screenshot](/stats.png?raw=true "Network Trace")
